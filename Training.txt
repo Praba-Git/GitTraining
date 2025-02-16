@@ -4,9 +4,4 @@ This is a new added file
 
 Added this is the master
 
-
-adding changes
-
-Added changes in VSCode to Remote feature branch
-
-Master head is 1 move ahead now when this commit is done in the feature branch
+Added to the remote master branch directly
